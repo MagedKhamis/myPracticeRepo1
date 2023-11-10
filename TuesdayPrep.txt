@@ -16,3 +16,6 @@ Open github
 create a new repo
 create a new folder in Documents and create a text file inside the folder
 open git bash and push to file to new repo
+
+
+Jenkins prep
