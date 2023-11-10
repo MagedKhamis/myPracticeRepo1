@@ -1,0 +1,18 @@
+Tuesday one -- 
+
+1. Git
+2. Difference between github Vs GitLab
+3. Branching strategy ( master and feature)
+4. how to push, clone, pull codes
+5. git conflict and how to resolve
+ 
++ Jenkins
+
+Java + Selenium + Manual Testing
+
+
+
+Open github
+create a new repo
+create a new folder in Documents and create a text file inside the folder
+open git bash and push to file to new repo
